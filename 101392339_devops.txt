@@ -1,1 +1,1 @@
-Security Integration (DevSecOps) ensures security is integrated throughout the process.
+Continuous Integration (CI) involves frequent code integration with automated testing.
