@@ -1,1 +1,1 @@
-DevOps stands for Development and Operations, emphasizing collaboration and integration.
+devops is fun
