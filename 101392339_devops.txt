@@ -1,1 +1,1 @@
-devops is fun
+A DevOps Toolchain consists of various tools for automation, version control, monitoring, etc
