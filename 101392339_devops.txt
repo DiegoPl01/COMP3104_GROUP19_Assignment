@@ -1,1 +1,1 @@
-DevOps emphasizes a culture of collaboration, continuous improvement, and shared responsibility.
+DevOps aligns with Agile principles, focusing on iterative development and responsiveness.
