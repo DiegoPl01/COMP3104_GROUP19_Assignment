@@ -1,1 +1,1 @@
-Continuous Deployment (CD) automates the deployment of tested code changes to production.
+DevOps emphasizes a culture of collaboration, continuous improvement, and shared responsibility.
