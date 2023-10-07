@@ -1,1 +1,1 @@
-Continuous Integration (CI) involves frequent code integration with automated testing.
+Continuous Deployment (CD) automates the deployment of tested code changes to production.
