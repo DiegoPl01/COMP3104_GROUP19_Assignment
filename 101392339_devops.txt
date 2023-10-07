@@ -1,1 +1,1 @@
-devops devops
+[200~DevOps stands for Development and Operations, emphasizing collaboration and integration
