@@ -1,3 +1,4 @@
 Benefits of DevOps
 Maximizes Efficiency with Automation
 The late DevOps authority Robert Stroud said DevOps is all about "fueling business transformation" that encompasses people, process and culture change.
+The most effective strategies for DevOps transformation focus on structural improvements that build community. A successful DevOps initiative requires a culture—or mindset—change that brings greater collaboration between multiple teams—product, engineering, security, IT, operations and so on—as well as automation to better achieve business goals.
