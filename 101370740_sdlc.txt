@@ -2,3 +2,7 @@ Benefits of DevOps
 Maximizes Efficiency with Automation
 The late DevOps authority Robert Stroud said DevOps is all about "fueling business transformation" that encompasses people, process and culture change.
 The most effective strategies for DevOps transformation focus on structural improvements that build community. A successful DevOps initiative requires a culture—or mindset—change that brings greater collaboration between multiple teams—product, engineering, security, IT, operations and so on—as well as automation to better achieve business goals.
+What kind of tangible benefits can DevOps bring? By managing engineering processes end to end, DevOps emphasizes deploying software more often, in a reliable and secure way through automation.
+
+Optimizes the Entire Business
+System architect Patrick Debois, best known as the creator of the DevOps movement, says the biggest advantage of DevOps is the insight it provides. It forces organizations to "optimize for the whole system," not just IT siloes, to improve the business as a whole. In other words, be more adaptive and data-driven for alignment with customer and business needs.
