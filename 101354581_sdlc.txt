@@ -1,0 +1,26 @@
+# Hey how you doing? 
+
+What is SDLC?
+The software development lifecycle (SDLC) is the cost-effective and 
+time-efficient process that development teams use to design and build 
+high-quality software. The goal of SDLC is to minimize project risks 
+through forward planning so that software meets customer expectations 
+during production and beyond. This methodology outlines a series of 
+steps that divide the software development process into tasks you can 
+assign, complete, and measure.
+
+Why is SDLC important?
+Software development can be challenging to manage due to changing 
+requirements, technology upgrades, and cross-functional collaboration. 
+The software development lifecycle (SDLC) methodology provides a 
+systematic management framework with specific deliverables at every 
+stage of the software development process. As a result, all stakeholders 
+agree on software development goals and requirements upfront and also 
+have a plan to achieve those goals.
+
+Here are some benefits of SDLC:
+
+Increased visibility of the development process for all stakeholders involved 
+Efficient estimation, planning, and scheduling 
+Improved risk management and cost estimation
+Systematic software delivery and better customer satisfaction
