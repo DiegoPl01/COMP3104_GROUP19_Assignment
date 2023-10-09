@@ -1,4 +1,7 @@
 # Hey how you doing? 
+# 101354581 - Diego Plata
+# COMP3104 - DEVOPS
+# OCTOBER 2023
 
 What is SDLC?
 The software development lifecycle (SDLC) is the cost-effective and 
