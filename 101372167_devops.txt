@@ -1,0 +1,23 @@
+COMP 3104 DevOps Course Overview
+
+The COMP 3104 DevOps course is a dynamic and essential component of the curriculum at George Brown College. DevOps, a fusion of "Development" and "Operations," represents a modern approach to software development and IT operations that emphasizes collaboration, automation, and continuous improvement.
+
+Key Course Highlights:
+
+1. **Collaborative Workflow**: In COMP 3104, students learn how to bridge the gap between software development and IT operations. They acquire the skills needed to work collaboratively with cross-functional teams, fostering a culture of cooperation and communication.
+
+2. **Automation and Tooling**: DevOps relies heavily on automation to streamline processes. Students gain hands-on experience with a variety of tools and technologies that automate tasks such as code deployment, testing, and monitoring.
+
+3. **Continuous Integration and Continuous Delivery (CI/CD)**: COMP 3104 covers the principles of CI/CD, enabling students to build and deploy software more rapidly, reliably, and with reduced manual intervention.
+
+4. **Infrastructure as Code (IaC)**: The course introduces Infrastructure as Code, a methodology for managing and provisioning infrastructure using code. Students learn to create, configure, and manage infrastructure components programmatically.
+
+5. **Version Control**: Version control systems like Git play a pivotal role in DevOps practices. Students become proficient in using Git to manage code repositories and collaborate effectively.
+
+6. **Containerization**: COMP 3104 explores containerization technologies such as Docker, allowing students to package applications and their dependencies into portable containers for easy deployment.
+
+7. **Continuous Monitoring and Feedback**: Monitoring and feedback are essential in DevOps to ensure the performance and stability of software. Students gain insights into monitoring tools and practices.
+
+8. **Security and Compliance**: Security is a critical aspect of DevOps. The course addresses security best practices and compliance considerations throughout the software development lifecycle.
+
+By the end of COMP 3104, students are well-equipped with the knowledge and skills needed to excel in the world of DevOps. They are prepared to contribute to organizations' efforts to deliver high-quality software more efficiently and with greater agility.
