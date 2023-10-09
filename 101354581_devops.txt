@@ -1,4 +1,7 @@
 # Hi, I don't know what to put
+# 101354581 - Diego Plata
+# COMP3104 - DEVOPS
+# OCTOBER 2023
 
 Why this course matters:
 
